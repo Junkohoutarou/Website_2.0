@@ -1,1 +1,1 @@
-# Xây dựng website tĩnh
+# Xây dựng website đơn giản
