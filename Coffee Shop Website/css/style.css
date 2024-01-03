@@ -53,8 +53,7 @@ section{
     font-size: 4rem;
 }
 .heading{
-    padđing:10rem;
-
+    padđing:10rem
 .heading span{
     color:var(--main-color);
     text-transform: uppercase;
