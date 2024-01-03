@@ -54,6 +54,7 @@ section{
 }
 .heading{
     padđing:10rem;
+    margin:0rem;
 }
 .heading span{
     color:var(--main-color);
