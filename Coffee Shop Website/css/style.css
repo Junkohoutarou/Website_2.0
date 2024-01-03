@@ -95,8 +95,7 @@ section{
 .header .navbar a{
     margin:0 1rem;
     font-size: 1.6rem;
-    color:#fff;
-}
+    color:#
 
 .header .navbar a:hover{
     color:var(--main-color);
