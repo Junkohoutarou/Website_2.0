@@ -55,8 +55,7 @@ section{
 .heading{
     padđing:10rem;
     margin:0rem;
-    font-color:#ffff;
-}
+    font-color
 .heading span{
     color:var(--main-color);
     text-transform: uppercase;
